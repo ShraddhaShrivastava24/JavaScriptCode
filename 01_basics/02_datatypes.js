@@ -1,6 +1,6 @@
-// Primitive (value)
+// Primitive (value) stack
 // 7 types : String, Number, Boolean, null, undefined, Symbol, BigInt
-// Non Primitive (Reference)
+// Non Primitive (Reference) Heap
 //Array, Object, function
 
 const id = Symbol('6347264826')
